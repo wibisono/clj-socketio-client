@@ -1,4 +1,4 @@
-(defproject clj-socketio-client "0.1.0-SNAPSHOT"
+(defproject clj-socketio-client "0.1.1-SNAPSHOT"
   :description "Clojure wrapper for io.socket/socket.io-client"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
